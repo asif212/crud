@@ -7,6 +7,7 @@ import {employeeModel} from '../Models/employeeDetails.model'
 })
 export class EmployeeDetailsComponent implements OnInit {
 
+
   employees: employeeModel[] = [
     {
       id: 1,
